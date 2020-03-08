@@ -1,0 +1,6 @@
+The total number of tasks tracked using this system is: 6
+Completed tasks : 2
+Incomplete tasks: 4
+Overdue tasks: 0
+Percent incomplete: 66.67
+Percent overdue: 0.0

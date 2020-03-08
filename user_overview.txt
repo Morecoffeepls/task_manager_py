@@ -1,0 +1,2 @@
+The total number of users registered is: 5
+The total number of tasks generated and tracked is: 6
